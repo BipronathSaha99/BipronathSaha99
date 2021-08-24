@@ -2,7 +2,6 @@
 
 <h3 aign="left">Works</h3>
 
-- 🔭 I’m currently working on  Glozzom Theme Design
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on Github
 - 💬 Ask me about HTML, CSS, BOOTSTRAP, JS , Python
